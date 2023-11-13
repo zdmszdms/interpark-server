@@ -2,8 +2,8 @@
  * @swagger
  * /board:
  *   get:
- *     summary: 상품 목록
- *     tags: [Interpark]
+ *     summary: 게시글 가져오기
+ *     tags: [Board]
  *     parameters:
  *       - in: query
  *         name: number
